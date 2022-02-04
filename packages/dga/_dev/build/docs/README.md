@@ -4,7 +4,7 @@ The DGA model package stores the Domain Generated Algorithm detection [model and
 
 ## Configuration
 
-To download the assets in the *Security* app, click **Settings** > **Install DGA Model and assets**.
+To download the assets in the **Security** app, click **Settings** > **Install DGA Model and assets**.
 
 ## ML Modules
 
